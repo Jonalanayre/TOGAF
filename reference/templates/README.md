@@ -1,0 +1,26 @@
+# Blank templates
+
+Copy a template into its subject folder. Fill it in as plain Markdown. Keep supporting detail with the subject and link shared records.
+
+- [Application Service](application-service-template.md)
+- [Application](application-template.md)
+- [Business Service](business-service-template.md)
+- [Capability](capability-template.md)
+- [Data Domain](data-domain-template.md)
+- [Data Entity](data-entity-template.md)
+- [Decision](decision-template.md)
+- [Environment](environment-template.md)
+- [Exception](exception-template.md)
+- [Initiative](initiative-template.md)
+- [Integration](integration-template.md)
+- [Network](network-template.md)
+- [Objective](objective-template.md)
+- [Organization](organization-template.md)
+- [Principle](principle-template.md)
+- [Process](process-template.md)
+- [Requirement](requirement-template.md)
+- [Review](review-template.md)
+- [Risk](risk-template.md)
+- [Standard](standard-template.md)
+- [Technology](technology-template.md)
+- [Value Stream](value-stream-template.md)
